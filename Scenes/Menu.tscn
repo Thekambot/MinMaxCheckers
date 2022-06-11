@@ -27,19 +27,19 @@ margin_right = 537.0
 margin_bottom = 334.0
 
 [node name="White" type="Button" parent="CenterContainer/VBoxContainer"]
-margin_right = 250.0
+margin_right = 50.0
 margin_bottom = 20.0
 text = "White"
 
 [node name="Black" type="Button" parent="CenterContainer/VBoxContainer"]
 margin_top = 24.0
-margin_right = 250.0
+margin_right = 50.0
 margin_bottom = 44.0
 text = "Black"
 
 [node name="Exit" type="Button" parent="CenterContainer/VBoxContainer"]
 margin_top = 48.0
-margin_right = 250.0
+margin_right = 50.0
 margin_bottom = 68.0
 text = "Exit"
 
